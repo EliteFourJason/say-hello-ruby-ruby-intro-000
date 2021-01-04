@@ -1,7 +1,7 @@
-require_relative './spec_helper'
+def say_hello(Jason) 
+  puts "Hello Jason Sevilla"
+end
 
-ruby
-# I call on the method, say_hello, and give it the string "Jason"
-say_hello("Jason")
-  end
+def say_hello(name="Ruby Programmer!")
+  puts ("Hello #{Jason Sevilla}!")
 end
